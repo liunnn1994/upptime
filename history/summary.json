@@ -4,7 +4,7 @@
     "url": "https://www.2077tech.com",
     "icon": "https://favicons.githubusercontent.com/www.2077tech.com",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 873,
     "timeMonth": 873,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-28": 0
+    }
   },
   {
     "name": "Blog",
