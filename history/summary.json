@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.2077tech.com",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 875,
-    "timeDay": 879,
-    "timeWeek": 875,
-    "timeMonth": 875,
-    "timeYear": 875,
+    "uptime": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 824,
+    "timeDay": 569,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2022-08-28": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 423,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 217,
+    "timeDay": 143,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   }
 ]
