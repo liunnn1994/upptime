@@ -4,18 +4,19 @@
     "url": "https://www.2077tech.com",
     "icon": "https://favicons.githubusercontent.com/www.2077tech.com",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.57%",
+    "status": "down",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
     "time": 869,
     "timeDay": 904,
     "timeWeek": 814,
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2022-09-23": 0,
       "2022-09-02": 552,
       "2022-08-28": 17
     }
