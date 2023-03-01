@@ -6,13 +6,13 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "96.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.68%",
     "time": 737,
-    "timeDay": 883,
-    "timeWeek": 840,
+    "timeDay": 733,
+    "timeWeek": 828,
     "timeMonth": 767,
     "timeYear": 737,
     "dailyMinutesDown": {
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 81,
-    "timeWeek": 139,
-    "timeMonth": 176,
-    "timeYear": 194,
+    "time": 195,
+    "timeDay": 402,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   }
 ]
