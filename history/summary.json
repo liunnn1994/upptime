@@ -4,7 +4,7 @@
     "url": "https://www.2077tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.2077tech.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 866,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2023-04-10": 0,
       "2023-03-30": 23,
       "2023-03-16": 29,
       "2023-03-02": 33,
