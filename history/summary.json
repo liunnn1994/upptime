@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.2077tech.com.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "96.70%",
+    "uptime": "96.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.64%",
-    "uptimeYear": "96.69%",
+    "uptimeMonth": "59.35%",
+    "uptimeYear": "96.42%",
     "time": 760,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 910,
+    "timeMonth": 927,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2023-08-27": 3,
+      "2023-08-28": 4,
+      "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -42,8 +43,7 @@
       "2022-10-24": 59,
       "2022-10-18": 86,
       "2022-09-23": 27,
-      "2022-09-02": 552,
-      "2022-08-28": 17
+      "2022-09-02": 552
     }
   },
   {
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 155,
-    "timeWeek": 155,
-    "timeMonth": 159,
+    "timeDay": 41,
+    "timeWeek": 125,
+    "timeMonth": 152,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
