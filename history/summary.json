@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.2077tech.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "96.11%",
-    "time": 826,
-    "timeDay": 705,
-    "timeWeek": 691,
+    "time": 825,
+    "timeDay": 687,
+    "timeWeek": 689,
     "timeMonth": 1252,
     "timeYear": 824,
     "dailyMinutesDown": {
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 136,
-    "timeWeek": 203,
-    "timeMonth": 157,
-    "timeYear": 175,
+    "timeDay": 57,
+    "timeWeek": 168,
+    "timeMonth": 151,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   }
 ]
